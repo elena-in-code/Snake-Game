@@ -1,0 +1,11 @@
+body {
+  background:rgb(242,242,242);
+  font-family: 'Press Start 2P', cursive;
+  text-align:center;
+}
+canvas {
+  display: block;
+  margin: 2% auto;
+  box-shadow: 1px 3px 36px 5px rgba(0,0,0,0.75);
+  border: 5px solid red;
+}
