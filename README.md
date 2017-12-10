@@ -17,7 +17,7 @@ Based on the video by:
 
 ### User Stories: 
 
-+ Use the ```&larr; &uarr; &rarr; &darr;``` Of your keyboard to move the snake
++ Use the ``` ↑  ↓  ←  →``` Of your keyboard to move the snake
 + DONT hit the red borders or the snake body, that will reset your lenght to the initial size.
 
 ##### Hope you enjoy it!
